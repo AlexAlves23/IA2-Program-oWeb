@@ -1,0 +1,5 @@
+node_modules/
+# imagens enviadas pelos usuários (a pasta é mantida pelo .gitkeep)
+uploads/*
+!uploads/.gitkeep
+.env

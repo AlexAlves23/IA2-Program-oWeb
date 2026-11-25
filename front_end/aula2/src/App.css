@@ -1,0 +1,5 @@
+  
+/* painel de vendas e cadastro de produtos */
+.produto-img { height: 160px; object-fit: cover; width: 100%; }
+.sem-imagem { display: flex; align-items: center; justify-content: center; background: #e9ecef; color: #6c757d; }
+.miniatura { width: 48px; height: 48px; object-fit: cover; border-radius: 4px; }
